@@ -1,0 +1,25 @@
+{
+  "course_name": "Grade 7 General Science",
+  "topics": [
+    {
+      "id": "sci_topic_01",
+      "title": "The Scientific Method",
+      "sub_topics": ["Observation", "Hypothesis", "Experimentation", "Conclusion"]
+    },
+    {
+      "id": "sci_topic_02",
+      "title": "Living Organisms",
+      "sub_topics": ["Cells", "Classification", "Ecosystems"]
+    },
+    {
+      "id": "sci_topic_03",
+      "title": "Earth and Space",
+      "sub_topics": ["Geology", "Weather", "Solar System"]
+    },
+    {
+      "id": "sci_topic_04",
+      "title": "Matter and Its Properties",
+      "sub_topics": ["States of Matter", "Physical and Chemical Changes", "Atoms and Molecules"]
+    }
+  ]
+}
